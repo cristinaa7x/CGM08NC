@@ -6,6 +6,9 @@
     </head>
     <body>
         <?php
+        $i=1;
+        $j=2;
+        
             function sumar($i,$j){}
             function restar($i,$j){}
             function producte($i,$j){}
