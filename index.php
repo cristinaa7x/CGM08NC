@@ -11,7 +11,9 @@
         
             function sumar($i,$j){}
             function restar($i,$j){}
-            function producte($i,$j){}
+            function producte($i,$j){
+            return $i*$j; //Cristina
+            }
          
         ?>
     </body>
