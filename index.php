@@ -9,7 +9,9 @@
         $i=1;
         $j=2;
         
-            function sumar($i,$j){}
+            function sumar($i,$j){
+                return $i+$j: //Ali
+            }
             function restar($i,$j){
                 return $i-$j; //Joy
             }
