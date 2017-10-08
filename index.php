@@ -9,10 +9,10 @@
         $i=1;
         $j=2;
         
-            function sumar($i,$j){
-            return $i+$j; //Ali 
+            function sumar($i,$j){}
+            function restar($i,$j){
+                return $i-$j; //Joy
             }
-            function restar($i,$j){}
             function producte($i,$j){
             return $i*$j; //Cristina
             }
