@@ -15,9 +15,7 @@
             function restar($i,$j){
                 return $i-$j; //Joy
             }
-            function producte($i,$j){
-            return $i*$j; //Cristina
-            }
+
          
         ?>
     </body>
